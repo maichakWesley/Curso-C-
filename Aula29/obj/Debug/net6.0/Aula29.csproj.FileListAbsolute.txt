@@ -1,0 +1,15 @@
+C:\Users\mie3ct\Desktop\undemyC#\Aula29\bin\Debug\net6.0\Aula29.exe
+C:\Users\mie3ct\Desktop\undemyC#\Aula29\bin\Debug\net6.0\Aula29.deps.json
+C:\Users\mie3ct\Desktop\undemyC#\Aula29\bin\Debug\net6.0\Aula29.runtimeconfig.json
+C:\Users\mie3ct\Desktop\undemyC#\Aula29\bin\Debug\net6.0\Aula29.dll
+C:\Users\mie3ct\Desktop\undemyC#\Aula29\bin\Debug\net6.0\Aula29.pdb
+C:\Users\mie3ct\Desktop\undemyC#\Aula29\obj\Debug\net6.0\Aula29.csproj.AssemblyReference.cache
+C:\Users\mie3ct\Desktop\undemyC#\Aula29\obj\Debug\net6.0\Aula29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mie3ct\Desktop\undemyC#\Aula29\obj\Debug\net6.0\Aula29.AssemblyInfoInputs.cache
+C:\Users\mie3ct\Desktop\undemyC#\Aula29\obj\Debug\net6.0\Aula29.AssemblyInfo.cs
+C:\Users\mie3ct\Desktop\undemyC#\Aula29\obj\Debug\net6.0\Aula29.csproj.CoreCompileInputs.cache
+C:\Users\mie3ct\Desktop\undemyC#\Aula29\obj\Debug\net6.0\Aula29.dll
+C:\Users\mie3ct\Desktop\undemyC#\Aula29\obj\Debug\net6.0\refint\Aula29.dll
+C:\Users\mie3ct\Desktop\undemyC#\Aula29\obj\Debug\net6.0\Aula29.pdb
+C:\Users\mie3ct\Desktop\undemyC#\Aula29\obj\Debug\net6.0\Aula29.genruntimeconfig.cache
+C:\Users\mie3ct\Desktop\undemyC#\Aula29\obj\Debug\net6.0\ref\Aula29.dll

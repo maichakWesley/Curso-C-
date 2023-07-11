@@ -1,0 +1,15 @@
+C:\Users\mie3ct\Desktop\undemyC#\ExercicioEnumeracoes\obj\Debug\net6.0\ExercicioEnumeracoes.csproj.AssemblyReference.cache
+C:\Users\mie3ct\Desktop\undemyC#\ExercicioEnumeracoes\obj\Debug\net6.0\ExercicioEnumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mie3ct\Desktop\undemyC#\ExercicioEnumeracoes\obj\Debug\net6.0\ExercicioEnumeracoes.AssemblyInfoInputs.cache
+C:\Users\mie3ct\Desktop\undemyC#\ExercicioEnumeracoes\obj\Debug\net6.0\ExercicioEnumeracoes.AssemblyInfo.cs
+C:\Users\mie3ct\Desktop\undemyC#\ExercicioEnumeracoes\obj\Debug\net6.0\ExercicioEnumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\mie3ct\Desktop\undemyC#\ExercicioEnumeracoes\bin\Debug\net6.0\ExercicioEnumeracoes.exe
+C:\Users\mie3ct\Desktop\undemyC#\ExercicioEnumeracoes\bin\Debug\net6.0\ExercicioEnumeracoes.deps.json
+C:\Users\mie3ct\Desktop\undemyC#\ExercicioEnumeracoes\bin\Debug\net6.0\ExercicioEnumeracoes.runtimeconfig.json
+C:\Users\mie3ct\Desktop\undemyC#\ExercicioEnumeracoes\bin\Debug\net6.0\ExercicioEnumeracoes.dll
+C:\Users\mie3ct\Desktop\undemyC#\ExercicioEnumeracoes\bin\Debug\net6.0\ExercicioEnumeracoes.pdb
+C:\Users\mie3ct\Desktop\undemyC#\ExercicioEnumeracoes\obj\Debug\net6.0\ExercicioEnumeracoes.dll
+C:\Users\mie3ct\Desktop\undemyC#\ExercicioEnumeracoes\obj\Debug\net6.0\refint\ExercicioEnumeracoes.dll
+C:\Users\mie3ct\Desktop\undemyC#\ExercicioEnumeracoes\obj\Debug\net6.0\ExercicioEnumeracoes.pdb
+C:\Users\mie3ct\Desktop\undemyC#\ExercicioEnumeracoes\obj\Debug\net6.0\ExercicioEnumeracoes.genruntimeconfig.cache
+C:\Users\mie3ct\Desktop\undemyC#\ExercicioEnumeracoes\obj\Debug\net6.0\ref\ExercicioEnumeracoes.dll

@@ -1,0 +1,15 @@
+C:\Users\mie3ct\Desktop\undemyC#\bin\Debug\net6.0\undemyC#.exe
+C:\Users\mie3ct\Desktop\undemyC#\bin\Debug\net6.0\undemyC#.deps.json
+C:\Users\mie3ct\Desktop\undemyC#\bin\Debug\net6.0\undemyC#.runtimeconfig.json
+C:\Users\mie3ct\Desktop\undemyC#\bin\Debug\net6.0\undemyC#.dll
+C:\Users\mie3ct\Desktop\undemyC#\bin\Debug\net6.0\undemyC#.pdb
+C:\Users\mie3ct\Desktop\undemyC#\obj\Debug\net6.0\undemyC#.csproj.AssemblyReference.cache
+C:\Users\mie3ct\Desktop\undemyC#\obj\Debug\net6.0\undemyC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mie3ct\Desktop\undemyC#\obj\Debug\net6.0\undemyC#.AssemblyInfoInputs.cache
+C:\Users\mie3ct\Desktop\undemyC#\obj\Debug\net6.0\undemyC#.AssemblyInfo.cs
+C:\Users\mie3ct\Desktop\undemyC#\obj\Debug\net6.0\undemyC#.csproj.CoreCompileInputs.cache
+C:\Users\mie3ct\Desktop\undemyC#\obj\Debug\net6.0\undemyC#.dll
+C:\Users\mie3ct\Desktop\undemyC#\obj\Debug\net6.0\refint\undemyC#.dll
+C:\Users\mie3ct\Desktop\undemyC#\obj\Debug\net6.0\undemyC#.pdb
+C:\Users\mie3ct\Desktop\undemyC#\obj\Debug\net6.0\undemyC#.genruntimeconfig.cache
+C:\Users\mie3ct\Desktop\undemyC#\obj\Debug\net6.0\ref\undemyC#.dll
