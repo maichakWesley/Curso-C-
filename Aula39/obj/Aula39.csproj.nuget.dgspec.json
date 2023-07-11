@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mie3ct\\Desktop\\undemyC#\\Curso-C-\\aula38\\Aula38.csproj": {}
+    "C:\\Users\\mie3ct\\Desktop\\undemyC#\\Curso-C-\\Aula39\\Aula39.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mie3ct\\Desktop\\undemyC#\\Curso-C-\\aula38\\Aula38.csproj": {
+    "C:\\Users\\mie3ct\\Desktop\\undemyC#\\Curso-C-\\Aula39\\Aula39.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mie3ct\\Desktop\\undemyC#\\Curso-C-\\aula38\\Aula38.csproj",
-        "projectName": "Aula38",
-        "projectPath": "C:\\Users\\mie3ct\\Desktop\\undemyC#\\Curso-C-\\aula38\\Aula38.csproj",
+        "projectUniqueName": "C:\\Users\\mie3ct\\Desktop\\undemyC#\\Curso-C-\\Aula39\\Aula39.csproj",
+        "projectName": "Aula39",
+        "projectPath": "C:\\Users\\mie3ct\\Desktop\\undemyC#\\Curso-C-\\Aula39\\Aula39.csproj",
         "packagesPath": "C:\\Users\\mie3ct\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mie3ct\\Desktop\\undemyC#\\Curso-C-\\aula38\\obj\\",
+        "outputPath": "C:\\Users\\mie3ct\\Desktop\\undemyC#\\Curso-C-\\Aula39\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mie3ct\\AppData\\Roaming\\NuGet\\NuGet.Config"
