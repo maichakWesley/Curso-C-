@@ -1,0 +1,15 @@
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExercicioLeituraArquivos\bin\Debug\net6.0\ExercicioLeituraArquivos.exe
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExercicioLeituraArquivos\bin\Debug\net6.0\ExercicioLeituraArquivos.deps.json
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExercicioLeituraArquivos\bin\Debug\net6.0\ExercicioLeituraArquivos.runtimeconfig.json
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExercicioLeituraArquivos\bin\Debug\net6.0\ExercicioLeituraArquivos.dll
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExercicioLeituraArquivos\bin\Debug\net6.0\ExercicioLeituraArquivos.pdb
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExercicioLeituraArquivos\obj\Debug\net6.0\ExercicioLeituraArquivos.csproj.AssemblyReference.cache
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExercicioLeituraArquivos\obj\Debug\net6.0\ExercicioLeituraArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExercicioLeituraArquivos\obj\Debug\net6.0\ExercicioLeituraArquivos.AssemblyInfoInputs.cache
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExercicioLeituraArquivos\obj\Debug\net6.0\ExercicioLeituraArquivos.AssemblyInfo.cs
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExercicioLeituraArquivos\obj\Debug\net6.0\ExercicioLeituraArquivos.csproj.CoreCompileInputs.cache
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExercicioLeituraArquivos\obj\Debug\net6.0\ExercicioLeituraArquivos.dll
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExercicioLeituraArquivos\obj\Debug\net6.0\refint\ExercicioLeituraArquivos.dll
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExercicioLeituraArquivos\obj\Debug\net6.0\ExercicioLeituraArquivos.pdb
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExercicioLeituraArquivos\obj\Debug\net6.0\ExercicioLeituraArquivos.genruntimeconfig.cache
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExercicioLeituraArquivos\obj\Debug\net6.0\ref\ExercicioLeituraArquivos.dll
