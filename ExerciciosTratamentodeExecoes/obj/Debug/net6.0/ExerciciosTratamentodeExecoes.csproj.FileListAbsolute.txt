@@ -1,0 +1,15 @@
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExerciciosTratamentodeExecoes\obj\Debug\net6.0\ExerciciosTratamentodeExecoes.csproj.AssemblyReference.cache
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExerciciosTratamentodeExecoes\obj\Debug\net6.0\ExerciciosTratamentodeExecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExerciciosTratamentodeExecoes\obj\Debug\net6.0\ExerciciosTratamentodeExecoes.AssemblyInfoInputs.cache
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExerciciosTratamentodeExecoes\obj\Debug\net6.0\ExerciciosTratamentodeExecoes.AssemblyInfo.cs
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExerciciosTratamentodeExecoes\obj\Debug\net6.0\ExerciciosTratamentodeExecoes.csproj.CoreCompileInputs.cache
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExerciciosTratamentodeExecoes\bin\Debug\net6.0\ExerciciosTratamentodeExecoes.exe
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExerciciosTratamentodeExecoes\bin\Debug\net6.0\ExerciciosTratamentodeExecoes.deps.json
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExerciciosTratamentodeExecoes\bin\Debug\net6.0\ExerciciosTratamentodeExecoes.runtimeconfig.json
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExerciciosTratamentodeExecoes\bin\Debug\net6.0\ExerciciosTratamentodeExecoes.dll
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExerciciosTratamentodeExecoes\bin\Debug\net6.0\ExerciciosTratamentodeExecoes.pdb
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExerciciosTratamentodeExecoes\obj\Debug\net6.0\ExerciciosTratamentodeExecoes.dll
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExerciciosTratamentodeExecoes\obj\Debug\net6.0\refint\ExerciciosTratamentodeExecoes.dll
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExerciciosTratamentodeExecoes\obj\Debug\net6.0\ExerciciosTratamentodeExecoes.pdb
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExerciciosTratamentodeExecoes\obj\Debug\net6.0\ExerciciosTratamentodeExecoes.genruntimeconfig.cache
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ExerciciosTratamentodeExecoes\obj\Debug\net6.0\ref\ExerciciosTratamentodeExecoes.dll

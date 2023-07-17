@@ -1,0 +1,15 @@
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ProjetoXadrez\bin\Debug\net6.0\ProjetoXadrez.exe
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ProjetoXadrez\bin\Debug\net6.0\ProjetoXadrez.deps.json
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ProjetoXadrez\bin\Debug\net6.0\ProjetoXadrez.runtimeconfig.json
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ProjetoXadrez\bin\Debug\net6.0\ProjetoXadrez.dll
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ProjetoXadrez\bin\Debug\net6.0\ProjetoXadrez.pdb
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ProjetoXadrez\obj\Debug\net6.0\ProjetoXadrez.csproj.AssemblyReference.cache
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ProjetoXadrez\obj\Debug\net6.0\ProjetoXadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ProjetoXadrez\obj\Debug\net6.0\ProjetoXadrez.AssemblyInfoInputs.cache
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ProjetoXadrez\obj\Debug\net6.0\ProjetoXadrez.AssemblyInfo.cs
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ProjetoXadrez\obj\Debug\net6.0\ProjetoXadrez.csproj.CoreCompileInputs.cache
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ProjetoXadrez\obj\Debug\net6.0\ProjetoXadrez.dll
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ProjetoXadrez\obj\Debug\net6.0\refint\ProjetoXadrez.dll
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ProjetoXadrez\obj\Debug\net6.0\ProjetoXadrez.pdb
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ProjetoXadrez\obj\Debug\net6.0\ProjetoXadrez.genruntimeconfig.cache
+C:\Users\mie3ct\Desktop\undemyC#\Curso-C-\ProjetoXadrez\obj\Debug\net6.0\ref\ProjetoXadrez.dll
