@@ -1,7 +1,8 @@
 ﻿using Course.Tabuleiro;
 using Course;
 using System;
-using xadrez; 
+using xadrez;
+using tabuleiro;
 
 namespace Name
 {
@@ -9,17 +10,25 @@ namespace Name
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
-            Table tab = new Table(8, 8);
-           
+            try
+            {
+                Console.WriteLine();
+                Table tab = new Table(8, 8);
 
-           //colocando pecas
-           tab.InsertPiece(new Torre(tab, Color.White), new Position(0,0));
-           tab.InsertPiece(new Torre(tab, Color.White), new Position(1,3));
-           tab.InsertPiece(new Rei(tab, Color.White), new Position(2,4));
-            Windon.imprimirTabuleiro(tab);
 
-            Console.ReadLine();
+                //colocando pecas
+                tab.InsertPiece(new Torre(tab, Color.White), new Position(0, 0));
+                tab.InsertPiece(new Torre(tab, Color.White), new Position(1, 7));
+                tab.InsertPiece(new Rei(tab, Color.White), new Position(0, 3));
+                Windon.imprimirTabuleiro(tab);
+
+            }
+            catch (TabuleiroException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+
 
         }
 
