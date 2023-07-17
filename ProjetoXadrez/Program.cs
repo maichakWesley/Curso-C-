@@ -20,16 +20,21 @@ namespace Name
             
             try
             {
-                Console.WriteLine();
-                Table tab = new Table(8, 8);
+                PartidaXadrez partida = new PartidaXadrez();
+                while(!partida.Terminada){
 
+                    Console.WriteLine();
+                    Windon.imprimirTabuleiro(partida.tab);
+                    Console.WriteLine();
+                    Console.Write("Digite a posição de Origem: ");
+                    Position origem = Windon.lerPosicaoXadrez().toPosicao();
+                    Console.Write("Digite a posição de Destino: ");
+                    Position destino = Windon.lerPosicaoXadrez().toPosicao();
 
-                //colocando pecas
-                tab.InsertPiece(new Torre(tab, Color.White), new Position(0, 0));
-                tab.InsertPiece(new Torre(tab, Color.White), new Position(1, 7));
-                tab.InsertPiece(new Rei(tab, Color.Black), new Position(0, 3));
-                tab.InsertPiece(new Rei(tab, Color.Black), new Position(3, 4));
-                Windon.imprimirTabuleiro(tab);
+                    partida.executandoMovimento(origem, destino);
+
+                }
+              
 
             }
             catch (TabuleiroException e)

@@ -21,5 +21,9 @@ namespace Course.Tabuleiro
            
         }
 
+        public void incrementarQtMovimentos(){
+            Moviment++;
+        }
+
     }
 }

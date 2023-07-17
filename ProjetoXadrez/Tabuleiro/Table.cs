@@ -30,6 +30,17 @@ namespace Course.Tabuleiro
             return peca(pos) != null;
         }
 
+        public WorckPiece retirarPeca(Position pos){
+            if (peca(pos) == null){
+                return null;
+            }
+            WorckPiece aux = peca(pos);
+            aux.Posicao = null;
+            Pecas[pos.Linha, pos.Coluna] = null;
+            return aux;
+            
+        }
+
         public void InsertPiece(WorckPiece p, Position pos){
 
             if(existePeca(pos)){
